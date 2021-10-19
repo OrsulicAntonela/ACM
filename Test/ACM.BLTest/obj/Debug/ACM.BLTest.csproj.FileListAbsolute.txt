@@ -13,4 +13,3 @@ C:\Users\aorsulic\Desktop\Antonela\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.cspr
 C:\Users\aorsulic\Desktop\Antonela\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
 C:\Users\aorsulic\Desktop\Antonela\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 C:\Users\aorsulic\Desktop\Antonela\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
-C:\Users\aorsulic\Desktop\Antonela\ACM\Test\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
