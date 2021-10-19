@@ -1,0 +1,6 @@
+C:\Users\aorsulic\Desktop\Antonela\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\aorsulic\Desktop\Antonela\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\aorsulic\Desktop\Antonela\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+C:\Users\aorsulic\Desktop\Antonela\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\aorsulic\Desktop\Antonela\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\aorsulic\Desktop\Antonela\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
